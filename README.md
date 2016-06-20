@@ -22,7 +22,8 @@ var AUTH0_DOMAIN = 'AUTH0_DOMAIN';
 You will also need to configure your **Allowed Callback URLs** in your Auth0 dashboard. Set the following values there:
 
 ```
-https://{your-auth0-domain-name}.auth0.com/mobile, file:///
+https://{your-auth0-domain-name}.auth0.com/mobile
+file:///
 ```
 
 ## Run the App
